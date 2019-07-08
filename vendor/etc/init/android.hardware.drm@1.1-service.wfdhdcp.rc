@@ -1,0 +1,9 @@
+# Copyright (c) 2018 Qualcomm Technologies, Inc.
+# All Rights Reserved.
+# Confidential and Proprietary - Qualcomm Technologies, Inc.
+#
+
+service wfdhdcphalservice /vendor/bin/wfdhdcphalservice
+    class main
+    user system
+    group media inet mediadrm system

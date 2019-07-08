@@ -1,0 +1,8 @@
+
+#
+# ADDITIONAL PRODUCT PROPERTIES
+#
+ro.build.characteristics=nosdcard
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.com.google.gmsversion=Q_beta
