@@ -1,0 +1,151 @@
+{
+  "localId": "29a47ae3-765a-406b-acfc-c4a664e0fe05",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "b7c0aafe4a32661961d86001fa0b8ef62e610ec4",
+  "platform": 8,
+  "size": 27407836,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "fallback": "MIUI"
+  },
+  "designers": {
+    "fallback": "MIUI"
+  },
+  "titles": {
+    "bo_CN": "སྐར་ཚོགས།",
+    "ro_RO": "Plimbare în spaţiu",
+    "es_US": "Caminata espacial",
+    "pt_BR": "Caminhada espacial",
+    "th_TH": "ท่องไปในอวกาศ",
+    "bn_BD": "স্পেসওয়াক",
+    "in_ID": "Luar angkasa",
+    "cs_CZ": "Ve hvězdách",
+    "ca_ES": "Passeig espacial",
+    "ne_IN": "क्लासिक",
+    "kn_IN": "ಕ್ಲಾಸಿಕ್‌",
+    "ug_CN": "كائىنات بوشلۇقى",
+    "es_ES": "Paseo espacial",
+    "te_IN": "క్లాసిక్",
+    "ur_IN": "اسپیس واک",
+    "ta_IN": "ஸ்பேஸ்வாக்",
+    "da_DK": "Rumvandring",
+    "iw_IL": "הליכת ירח",
+    "ko_KR": "스페이스워크",
+    "en_US": "Spacewalk",
+    "lt_LT": "Atvirame kosmose",
+    "it_IT": "Passeggiata nello spazio",
+    "ru_RU": "Открытый космос",
+    "pl_PL": "Spacer kosmiczny",
+    "tr_TR": "Uzay Yürüyüşü",
+    "hi_IN": "स्पेसवॉक",
+    "mr_IN": "स्पेसवॉक",
+    "fr_FR": "Sortie dans l'espace",
+    "ja_JP": "スペースウォーク",
+    "ms_MY": "Angkasa lepas",
+    "or_IN": "స్పేస్‌వాక్",
+    "zh_TW": "深空",
+    "zh_HK": "深空",
+    "uz_UZ": "Ochiq koinot",
+    "as_IN": "স্পেচৱাক",
+    "bn_IN": "স্পেসওয়াক",
+    "pa_IN": "ਸਪੇਸਵਾਕ",
+    "fa_IR": "فضا پیمایی",
+    "vi_VN": "Không gian",
+    "az_AZ": "Kosmos gəzintisi",
+    "gu_IN": "સ્પેસવૉક",
+    "uk_UA": "Відкритий космос",
+    "ml_IN": "ക്ലാസിക്",
+    "ne_NP": "क्लासिक",
+    "bs_BA": "Svemirski hod",
+    "ur_PK": "اسپیس واک",
+    "zh_CN": "深空",
+    "ar_EG": "استكشاف الفضاء",
+    "pt_PT": "Caminhada espacial"
+  },
+  "descriptions": {},
+  "builtInThumbnails": {
+    "en_US": [
+      "en_US_lockscreen_0.jpg",
+      "en_US_launcher_0.jpg",
+      "en_US_launcher_1.jpg",
+      "en_US_statusbar_0.jpg",
+      "en_US_statusbar_1.jpg",
+      "en_US_contact_0.jpg",
+      "en_US_mms_0.jpg",
+      "en_US_mms_1.jpg",
+      "en_US_fonts_3.jpg"
+    ],
+    "fallback": [
+      "preview_lockscreen_0.jpg",
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg",
+      "preview_statusbar_0.jpg",
+      "preview_statusbar_1.jpg",
+      "preview_contact_0.jpg",
+      "preview_mms_0.jpg",
+      "preview_mms_1.jpg",
+      "preview_icons_small_0.jpg",
+      "preview_icons_0.jpg",
+      "preview_fonts_3.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "en_US": [
+      "en_US_lockscreen_0.jpg",
+      "en_US_launcher_0.jpg",
+      "en_US_launcher_1.jpg",
+      "en_US_statusbar_0.jpg",
+      "en_US_statusbar_1.jpg",
+      "en_US_contact_0.jpg",
+      "en_US_mms_0.jpg",
+      "en_US_mms_1.jpg",
+      "en_US_fonts_3.jpg"
+    ],
+    "fallback": [
+      "preview_lockscreen_0.jpg",
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg",
+      "preview_statusbar_0.jpg",
+      "preview_statusbar_1.jpg",
+      "preview_contact_0.jpg",
+      "preview_mms_0.jpg",
+      "preview_mms_1.jpg",
+      "preview_icons_0.jpg",
+      "preview_fonts_3.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [],
+  "subResources": [
+    {
+      "localId": "6848fee2-d2de-472d-ab4e-8d9adb32f7c9",
+      "resourceCode": "wallpaper",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "88db3194-9b82-4c34-9412-f2850c3d7aaf",
+      "resourceCode": "lockstyle",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "771c8dcc-f3fa-4ffa-bd30-ea07dba5ffac",
+      "resourceCode": "lockscreen",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": "18:9"
+}
