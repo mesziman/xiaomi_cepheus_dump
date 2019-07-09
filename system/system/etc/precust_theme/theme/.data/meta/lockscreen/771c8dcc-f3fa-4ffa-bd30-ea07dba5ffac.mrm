@@ -1,0 +1,102 @@
+{
+  "localId": "771c8dcc-f3fa-4ffa-bd30-ea07dba5ffac",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "73a429725db08988d510223a7d1a8f57e29c0484",
+  "platform": 8,
+  "size": 40613,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "fallback": "MIUI"
+  },
+  "designers": {
+    "fallback": "MIUI"
+  },
+  "titles": {
+    "bo_CN": "སྐར་ཚོགས།",
+    "ro_RO": "Plimbare în spaţiu",
+    "es_US": "Caminata espacial",
+    "pt_BR": "Caminhada espacial",
+    "th_TH": "ท่องไปในอวกาศ",
+    "bn_BD": "স্পেসওয়াক",
+    "in_ID": "Luar angkasa",
+    "cs_CZ": "Ve hvězdách",
+    "ca_ES": "Passeig espacial",
+    "ne_IN": "क्लासिक",
+    "kn_IN": "ಕ್ಲಾಸಿಕ್‌",
+    "ug_CN": "كائىنات بوشلۇقى",
+    "es_ES": "Paseo espacial",
+    "te_IN": "క్లాసిక్",
+    "ur_IN": "اسپیس واک",
+    "ta_IN": "ஸ்பேஸ்வாக்",
+    "da_DK": "Rumvandring",
+    "iw_IL": "הליכת ירח",
+    "ko_KR": "스페이스워크",
+    "en_US": "Spacewalk",
+    "lt_LT": "Atvirame kosmose",
+    "it_IT": "Passeggiata nello spazio",
+    "ru_RU": "Открытый космос",
+    "pl_PL": "Spacer kosmiczny",
+    "tr_TR": "Uzay Yürüyüşü",
+    "hi_IN": "स्पेसवॉक",
+    "mr_IN": "स्पेसवॉक",
+    "fr_FR": "Sortie dans l'espace",
+    "ja_JP": "スペースウォーク",
+    "ms_MY": "Angkasa lepas",
+    "or_IN": "స్పేస్‌వాక్",
+    "zh_TW": "深空",
+    "zh_HK": "深空",
+    "uz_UZ": "Ochiq koinot",
+    "as_IN": "স্পেচৱাক",
+    "bn_IN": "স্পেসওয়াক",
+    "pa_IN": "ਸਪੇਸਵਾਕ",
+    "fa_IR": "فضا پیمایی",
+    "vi_VN": "Không gian",
+    "az_AZ": "Kosmos gəzintisi",
+    "gu_IN": "સ્પેસવૉક",
+    "uk_UA": "Відкритий космос",
+    "ml_IN": "ക്ലാസിക്",
+    "ne_NP": "क्लासिक",
+    "bs_BA": "Svemirski hod",
+    "ur_PK": "اسپیس واک",
+    "zh_CN": "深空",
+    "ar_EG": "استكشاف الفضاء",
+    "pt_PT": "Caminhada espacial"
+  },
+  "descriptions": {},
+  "builtInThumbnails": {
+    "en_US": [
+      "en_US_lockscreen_0.jpg"
+    ],
+    "fallback": [
+      "preview_lockscreen_0.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "en_US": [
+      "en_US_lockscreen_0.jpg"
+    ],
+    "fallback": [
+      "preview_lockscreen_0.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "29a47ae3-765a-406b-acfc-c4a664e0fe05",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": "18:9"
+}

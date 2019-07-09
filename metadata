@@ -1,0 +1,9 @@
+ota-property-files=metadata:69:311         
+ota-required-cache=0
+ota-type=BLOCK
+post-build=Xiaomi/cepheus/cepheus:9/PKQ1.181121.001/V10.2.12.0.PFAMIXM:user/release-keys
+post-build-incremental=V10.2.12.0.PFAMIXM
+post-sdk-level=28
+post-security-patch-level=2019-06-01
+post-timestamp=1560998816
+pre-device=cepheus
