@@ -1,0 +1,9 @@
+ota-property-files=metadata:69:288         
+ota-required-cache=0
+ota-type=BLOCK
+post-build=Xiaomi/cepheus/cepheus:10/QKQ1.190611.002/9.7.11:user/release-keys
+post-build-incremental=9.7.11
+post-sdk-level=29
+post-security-patch-level=2019-07-05
+post-timestamp=1562825374
+pre-device=cepheus
