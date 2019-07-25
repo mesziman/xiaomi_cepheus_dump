@@ -1,0 +1,4 @@
+SPARSECRC-LIST
+system 0xb5c652e9 7
+vendor 0xe713e381 3
+cust 0xac0c52b 2
