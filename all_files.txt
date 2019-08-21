@@ -26,6 +26,7 @@ bootimg/09_dtbdump_Qualcomm_Technologies,_Inc._SM8150_v1_SoC.dtb
 bootimg/10_dtbdump_Qualcomm_Technologies,_Inc._MSM_8916_MTP.dtb
 bootimg/11_dtbdump_Huawei_Nexus_6P.dtb
 bootimg/12_dtbdump_8SH-Ecr.dtb
+.gitignore
 modem/image/adsp.b00
 modem/image/adsp.b01
 modem/image/adsp.b02
